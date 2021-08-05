@@ -8,6 +8,8 @@ Change display to 1920x1080
 
 pip install -r requirements.txt
 
+
+
 Running:
 python AutoRefresh.py
 
